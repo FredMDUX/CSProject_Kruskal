@@ -11,7 +11,7 @@ Route Planning using the Kruskal's Akgorithm
 </style>
 
 <html>
-<iframe src="https://alpha.editor.p5js.org/" width="1000px" height="600px"></iframe>
+<iframe src="https://alpha.editor.p5js.org/" width="1000px" height="600px" frameborder="0"></iframe>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/p5.js"></script>
 
