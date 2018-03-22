@@ -15,6 +15,6 @@ Route Planning using the Kruskal's Akgorithm
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/p5.js"></script>
 
-<style>  iframe {padding: 25px; margin: 0;} </style>
+<style>  iframe {padding: 0; margin: 0;} </style>
 </html>
 
