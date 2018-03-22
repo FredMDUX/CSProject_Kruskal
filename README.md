@@ -4,7 +4,9 @@ Computer Science Final Year Project
 
 Route Planning using the Kruskal's Akgorithm
 
+<html>
 <iframe src="http://p5js.org/test/embed.html" width="600px" height="400px"></iframe>
 
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/p5.js"></script>
+</html>
 
