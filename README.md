@@ -4,6 +4,12 @@ Computer Science Final Year Project
 
 Route Planning using the Kruskal's Akgorithm
 
+<style> body {
+  background-color: #e3f5f7;
+}
+
+</style>
+
 <html>
 <iframe src="https://alpha.editor.p5js.org/" width="800px" height="600px"></iframe>
 
