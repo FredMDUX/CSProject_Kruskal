@@ -1,1 +1,7 @@
 theme: jekyll-theme-hacker
+
+<style> body {
+  background-color: #e3f5f7;
+}
+
+</style>
