@@ -8,5 +8,7 @@ Route Planning using the Kruskal's Akgorithm
 <iframe src="https://alpha.editor.p5js.org/" width="1000px" height="800px"></iframe>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/p5.js"></script>
+
+<style>  iframe {padding: 25px; margin: 0;} </style>
 </html>
 
